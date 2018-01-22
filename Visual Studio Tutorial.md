@@ -2,7 +2,7 @@
 After opening Visual Studio 2017 application, do the following:
 1. FILE > NEW > PROJECT
 2. Set it as Visual C++ type
-   1.Go to General
+	1.Go to General
 	2.Begin with an Empty Project
 	3.NOTE: Do not save on default location, create a file (ei. 'bin'), and back file up.
 3. Go to the project properties by right clicking on the name under 'Solutions'
